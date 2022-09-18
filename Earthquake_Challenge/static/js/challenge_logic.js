@@ -226,7 +226,6 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geoj
   }
 });
 
-
 // Rubric - //
 // 1.dd a third map style as a tile layer object to the challenge_logic.js file.
 // 2. Add the map variable to the base layer object.
